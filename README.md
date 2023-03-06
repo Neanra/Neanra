@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Neanra
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics
-- 💞️ I’m looking to collaborate on Analytics and Math projects
 - 📫 How to reach me julia.isajeva@gmail.com
 
 <!---
